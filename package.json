@@ -63,7 +63,7 @@
     "storybook": "^8.4.7",
     "storybook-dark-mode": "^4.0.2",
     "typescript": "*",
-    "vite": "^5.0.12",
+    "vite": "^5.2.14",
     "vite-plugin-dts": "^3.7.2"
   },
   "main": "./dist/uikit.umd.js",
